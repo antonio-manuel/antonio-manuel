@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working in N26 Bank as a Tech Lead, previously I'v been working as Backend Engineer and Android Engineer in several mid/small companies.
+
 <!--
 **antonio-manuel/antonio-manuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=antonio-manuel)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
